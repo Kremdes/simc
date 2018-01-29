@@ -141,9 +141,9 @@ waist=koltiras_newfound_will,id=132366,bonus_id=3630
 legs=cosmosculling_legplates,id=152016,bonus_id=3612/1502
 feet=doomwalker_warboots,id=152009,bonus_id=3612/1502
 finger1=zealous_tormentors_ring,id=152284,bonus_id=3612/1502,enchant=binding_of_haste
-finger2=seal_of_the_portalmaster,id=152063,bonus_id=3612/1502,enchant=binding_of_haste
+finger2=sullied_seal_of_the_pantheon,id=151972,bonus_id=3612/1502,enchant=binding_of_haste
 trinket1=amanthuls_vision,id=154172,bonus_id=4213
-trinket2=cradle_of_anguish,id=147010,bonus_id=3563/1512
+trinket2=seeping_scourgewing,id=151964,bonus_id=3612/1502
 main_hand=blades_of_the_fallen_prince,id=128292,gem_id=155850/155852/155850,relic_id=3612:1512/3612:1512/3612:1512,enchant=rune_of_razorice
 off_hand=blades_of_the_fallen_prince,id=128293,enchant=rune_of_the_fallen_crusader
 
